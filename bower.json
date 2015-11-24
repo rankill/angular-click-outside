@@ -1,11 +1,10 @@
 {
-    "name": "angular-click-outside-by-eon",
-    "version": "1.0.0",
+    "name": "angular-click-outside",
+    "version": "2.2.1",
     "main": "clickoutside.directive.js",
     "homepage": "https://github.com/IamAdamJowett/angular-click-outside",
     "authors": [
-        "IamAdamJowett",
-        "rankill"
+        "IamAdamJowett"
     ],
     "description": "An angular directive to detect a click outside of an elements scope, great for clicking outside of slide in and drop down menus amongst other things.",
     "keywords": [
@@ -17,6 +16,6 @@
     "ignore": [],
     "repository": {
         "type": "git",
-        "url": "https://github.com/rankill/angular-click-outside"
+        "url": "git://github.com/IamAdamJowett/angular-click-outside"
     }
 }
